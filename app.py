@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Application for Joy of Coding project """
+""" Joy for coding """
 from flask import flash, Flask, redirect, render_template, request
 from flask_bcrypt import Bcrypt
 from flask_login import current_user, LoginManager, login_user, logout_user, UserMixin

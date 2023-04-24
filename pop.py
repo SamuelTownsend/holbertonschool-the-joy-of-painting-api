@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Script to populate MYSql DB using Pandas """
+""" Populate SQL database using PANDAS """
 import pandas
 import csv
 import string
