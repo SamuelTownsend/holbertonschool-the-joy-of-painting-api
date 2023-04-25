@@ -1,0 +1,15 @@
+Writeups of the design
+
+What is it your are going to build and how does it fit the theme?
+ - ETL (Extract, Transform, Load), which is the process of taking data from multiple unique sources, modifying them in some way, and then storing them in a centralized database. This fits the theme because it allows us to take data from "OUTSIDE" sources and organize it in a way it can be useful. 
+
+What tools will you use?
+ - PYTHON, SQL, POSTMAN, UML 
+
+How long do you expect to spend on development of each part?
+etc.
+- Development was expected to take about 1 week. 
+
+API documentation
+Database documentation (UML or similar)
+Wireframes for any implemented UI portions of your application
